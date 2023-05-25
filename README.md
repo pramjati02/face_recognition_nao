@@ -1,6 +1,14 @@
 # face_recognition_nao
 Ongoing project of face recognition with NAO agent through ChatGPT API. 
 
+Steps to run NAO (Linux):
+1. Install qibullet, python2, python3 and set up your virtual environment
+2. Download the folder Nao_Project
+3. In your terminal within your virtual environment, navigate to the folder Nao_Project (use "cd")
+4. Run the face detection model with the command "python3 face_ours.py"
+5. Type in the file name your chosen image from the folder
+6. Terminate the python process ("killall python3" if you have to)
+7. Run the NAO code with "python2 nao_test2.py". The NAO agent will then appear on your screen and perform the appropriate response depending on the number of faces in the image. 
 NOTE: faces_ours.py runs on python3 while nao_test2.py runs on python2
 
 Project Description, Progression and Future Goals:
