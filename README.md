@@ -18,5 +18,5 @@ Project Description, Progression and Future Goals:
 4. In order to converse with NAO, we would like to use WhisperAI as a medium to put our words into ChatGPT and let NAO generate interactive responses using ChatGPT with that input (A model in which we use ChatGPT through NAO).
 5. We would like to have NAO pro-acitvely code its own actions to perform a task based on the input (This is after we are able to make the NAO converse). As a simple test, we used a ChatGPT generated code to make the NAO generate a hand-wave as a proof-concept. 
 
-Project Contributors: Pramatya Jati, Abdelraham Shehata, Joshua Janssen & Kees Kamp  
+Project Contributors: Pramatya Jati, Abdelraham Shehata, Joshua Janssen & Kees Kamp.
 Project Guidance provided by Murat Kirtay 
